@@ -1,0 +1,3 @@
+What I Have Learned So Far in This Course
+
+So far in this course, I have learned the fundamental concepts and practical skills needed to effectively use GitHub for version control and collaboration. I now understand how to create repositories, commit changes, and manage branches to keep my projects organized. Additionally, I have learned how to collaborate with others by using pull requests and resolving merge conflicts, which is essential for working in a team environment. This course has given me the confidence to use GitHub as a powerful tool in my development workflow.
